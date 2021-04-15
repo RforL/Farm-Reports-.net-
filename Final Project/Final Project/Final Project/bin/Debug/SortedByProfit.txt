@@ -1,0 +1,16 @@
+Sheep ID: 3003	Profit: $2.11
+Sheep ID: 3004	Profit: $2.46
+Sheep ID: 3001	Profit: $2.84
+Sheep ID: 3006	Profit: $3.06
+Sheep ID: 3005	Profit: $3.09
+Sheep ID: 3002	Profit: $4.26
+Goat ID: 1105	Profit: $5.54
+Goat ID: 1102	Profit: $6.56
+Sheep ID: 3000	Profit: $8.58
+Cow ID: 1004	Profit: $10.13
+Goat ID: 1103	Profit: $10.59
+Goat ID: 1104	Profit: $14.96
+Goat ID: 1101	Profit: $15.66
+Jersey Cow ID: 1003	Profit: $22.82
+Cow ID: 1001	Profit: $25.87
+Jersey Cow ID: 1002	Profit: $43.10
